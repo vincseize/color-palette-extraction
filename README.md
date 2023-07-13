@@ -1,3 +1,5 @@
+https://dev.to/producthackers/creating-a-color-palette-with-javascript-44ip
+
 # Create a color palette from an image
 
 ![Header image](/header-photo.jpg)
